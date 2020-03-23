@@ -1,0 +1,1 @@
+web: gunicorn word2vecapi_project.wsgi --log-file -
