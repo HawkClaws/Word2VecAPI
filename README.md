@@ -1,3 +1,3 @@
-language:Python
-Framework:Django
-Server:Heroku
+language:Python  
+Framework:Django  
+Server:Heroku  
